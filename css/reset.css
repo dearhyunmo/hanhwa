@@ -1,0 +1,8 @@
+*{margin: 0; padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none; color: black;}
+img{display: block; border: 0;}
+
+p,h1,h2,h3,h4,h5,h6,h7,a,span,ul,li,ol,b,i,header,section,footer{
+    font-family: 'Noto Sans KR', sans-serif;
+}
